@@ -42,11 +42,11 @@ Alternatively, you can download the bundled version of the application using the
 
 [download jokes cli app](https://drive.google.com/file/d/1zyzQnd3KbvT1mgjAaqWNcmiEf9JY4Arl/view?usp=sharing)
 
-Once you have downloaded the app (.tar.gz file), open the terminal in the location where the app was downloaded, and follow the following steps:
+Once you have downloaded the app (.tar.xz file), open the terminal in the location where the app was downloaded, and follow the following steps:
 
 ```
 # extract the app folder
-tar -xf jokes_cli_app.tar.gz
+tar -xf jokes_cli_app.tar.xz
 
 # run the app
 ./joke_cli_app/app
