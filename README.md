@@ -46,7 +46,7 @@ Once you have downloaded the app (.tar.gz file), open the terminal in the locati
 
 ```
 # extract the app folder
-tar -xzf jokes_cli_app.tar.gz
+tar -xf jokes_cli_app.tar.gz
 
 # run the app
 ./joke_cli_app/app
